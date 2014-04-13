@@ -1,0 +1,19 @@
+{
+  "name": "c8",
+  "version": "0.0.0",
+  "description": "HD Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SF-Bitcoindevs/c8.git"
+  },
+  "author": "SF Bitcoin Devs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SF-Bitcoindevs/c8/issues"
+  },
+  "homepage": "https://github.com/SF-Bitcoindevs/c8"
+}
